@@ -1,5 +1,8 @@
 # Text Mining Final Project 
 
+## Cloning the Repo:
+When cloning the repo, include the gzip data files in a folder named 'data'.
+
 ## Tasks:
 1. Issue Trend Analysis
 2. Issue Tracking
